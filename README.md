@@ -1,8 +1,9 @@
 # DNA as Structural Congruity Memory
 
-![Status](https://img.shields.io/badge/status-active%20development-blue)
+![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20190210.svg)
+![Status](https://img.shields.io/badge/status-public%20release-blue)
 ![Framework](https://img.shields.io/badge/framework-systems%20biology-green)
-![Scope](https://img.shields.io/badge/scope-hypothesis%20architecture-orange)
+![Scope](https://img.shields.io/badge/scope-falsifiable%20hypothesis-orange)
 ![License](https://img.shields.io/badge/license-MIT-lightgrey)
 
 ## A Constraint Based Systems Biology Framework
@@ -161,6 +162,18 @@ The goal is to build a measurable framework.
 
 ---
 
+## Citation
+
+If you reference this framework, please cite:
+
+Romeo, Andrea. *DNA as Structural Congruity Memory*. Zenodo. 2026.
+
+DOI:
+
+https://doi.org/10.5281/zenodo.20190210
+
+---
+
 ## Positioning
 
 This work is related to, but distinct from:
@@ -197,3 +210,13 @@ Planned structure:
 /figures
 /references
 /notebooks
+
+---
+
+## Status
+
+Version 0.1
+
+Initial public Zenodo release published.
+
+Framework under active scientific development.
