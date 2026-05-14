@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+title: "DNA as Structural Congruity Memory"
+message: "If you use this framework, please cite this repository."
+type: software
+authors:
+  - family-names: "Romeo"
+    given-names: "Andrea"
+    affiliation: "Independent Researcher"
+repository-code: "https://github.com/andrearomeo74-cloud/DNA-as-Structural-Congruity-Memory"
+license: MIT
+abstract: >
+  A falsifiable systems biology hypothesis framework interpreting DNA
+  as structural congruity memory across aging, disease, resilience,
+  and exploratory AI parallels.
+keywords:
+  - systems biology
+  - aging
+  - genomics
+  - resilience
+  - complexity
+  - theoretical biology
