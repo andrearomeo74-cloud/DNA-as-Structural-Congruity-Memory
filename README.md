@@ -1,17 +1,39 @@
 # DNA as Structural Congruity Memory
 
+![Status](https://img.shields.io/badge/status-active%20development-blue)
+![Framework](https://img.shields.io/badge/framework-systems%20biology-green)
+![Scope](https://img.shields.io/badge/scope-hypothesis%20architecture-orange)
+![License](https://img.shields.io/badge/license-MIT-lightgrey)
+
 ## A Constraint Based Systems Biology Framework
 
-This repository presents a conceptual and testable framework for interpreting DNA not as a deterministic blueprint, but as a historical memory of structural configurations that survived without breaking systemic proportionality.
+A public, timestamped hypothesis framework exploring whether biological persistence can be interpreted through systemic proportionality constraints.
 
-The central idea is simple:
+This repository proposes that DNA may be understood not merely as hereditary information, but as a compressed historical memory of biologically admissible configurations.
 
-> DNA does not tell us what life should be.  
-> It tells us what life managed not to break.
+The central systems question is:
 
-In this framework, biological evolution is not interpreted as the optimization of maximum capability, but as the filtering of configurations that remain viable under energetic, informational, structural, and functional constraints.
+> Why do some biological architectures persist across time while others collapse?
 
-DNA is therefore understood as a record of minimum viable coherence.
+The working hypothesis:
+
+**Persistence may depend partly on congruity, the proportional balance between functional value and systemic burden.**
+
+This repository develops that idea across:
+
+- DNA as structural memory
+- evolution as congruity filtering
+- aging as proportional drift
+- disease as threshold crossing
+- resilience loss
+- exploratory AI parallels
+
+Scientific posture:
+
+- hypothesis driven
+- explicitly falsifiable
+- systems level
+- open for empirical stress testing
 
 ---
 
